@@ -1,4 +1,4 @@
-<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+a<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 class Php_field_ft extends EE_Fieldtype {
 
